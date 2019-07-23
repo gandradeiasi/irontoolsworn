@@ -1,0 +1,15 @@
+.f-50px {
+    flex: 0 0 50px;
+}
+
+input[type=text] {
+    text-align: center;
+}
+
+@media (min-width: 769px) {
+    .col-md-20 {
+        flex: 0 0 20%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
